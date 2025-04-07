@@ -13,7 +13,7 @@ I'm currently focused on **JavaScript/Typescript**, _React_, and **_Next.js_**, 
 
 ![JS Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_loAIO35hsBCzwrXRmBvytt231VXHYCTi4g&s)
 
-You could say I'm passionate about turning ideas into working apps — even if it means pulling some late nights writing `<sub>debug</sub>` logs or solving <sup>one</sup> tricky bug after another.
+You could say I'm passionate about turning ideas into working apps — even if it means pulling some late nights writing `debug` logs or solving <sup>one</sup> tricky bug after another.
 
 Visit **[my site](https://ali-dev.webflow.io/)** for more info or to connect!
 
