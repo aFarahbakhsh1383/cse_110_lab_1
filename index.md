@@ -1,6 +1,7 @@
 # Ali Farahbakhsh's Page
-![My Photo](https://cdn.prod.website-files.com/674fbc979f25227affcdf72c/6754fb6df7d23a5d06b17bd6_1720630806309-p-500.jpeg)
-
+<div style="display:flex; align-items:center; flex-direction: column">
+<img src="https://cdn.prod.website-files.com/674fbc979f25227affcdf72c/6754fb6df7d23a5d06b17bd6_1720630806309-p-500.jpeg" alt="Ali Photo" width="300" style="border-radius: 45px; max-width: 300px">
+</div>
 **Hi Everyone!** I'm an aspiring <ins>full-stack</ins> developer from California.
 
 (See my funny quote: [Link Text](#funny-quote).)
